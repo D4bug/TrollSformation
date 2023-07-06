@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkx53sOwW340bgrzFmpdmXS0G726LfP3czgjR+yI+sow5Fjfw/hHReSHipkS5l1udTMgG8459utaARZ4YC0XQg==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Projects\\SaturnX\\TrollSformation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
